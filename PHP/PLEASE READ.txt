@@ -1,0 +1,16 @@
+tolong namai folder ini dengan nama "caloria"
+dan copy folder ini ke direktori "htdocs" anda
+
+sebagai contoh, apabila ingin mengakses file login.php
+maka alamatnya adalah
+LINUX --> localhost//caloria/api/login.php
+WINDOWS --> localhost/caloria/api/login.php
+
+
+untuk linux, perhatikan permission anda
+supaya aplikasi bisa melakukan upload foto
+
+
+dan jangan lupa untuk mengonfigurasi
+/config/koneksi.php
+agar bisa terkoneksi dengan database
